@@ -6,11 +6,9 @@ Create your account
 
 https://twitter.com/
 
-Após isso crie uma app para essa conta e pegue as 4 chaves
+Do the login and go to the link below register a application and get the 4 key
 
 https://apps.twitter.com/
-
-Do the login and go to the link below register a application and get the 4 key
 
 -Consumer Key
 
