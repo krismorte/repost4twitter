@@ -13,8 +13,11 @@ https://apps.twitter.com/
 Do the login and go to the link below register a application and get the 4 key
 
 -Consumer Key
+
 -Consumer Secret
+
 -Access Token
+
 -Access Token Secret
 
 ## How to use
