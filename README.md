@@ -22,4 +22,4 @@ At the main screen regiter your twitter account with your 4 key, after that regi
 Return to the main screen select the account at the table and play run.
 
 ## to Build
-download the [https://github.com/krismorte/Towel](Towel) repository and buid in your machine, after that the Towel lib will be register in your local repository
+download the [Towel](https://github.com/krismorte/Towel) repository and buid in your machine, after that the Towel lib will be register in your local repository
